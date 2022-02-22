@@ -2,7 +2,7 @@
 ## Logo:
 
 <div align="center">
-    <img src="logo.jpeg" alt="Logo" width="200" height="200">
+    <img src="logo.jpeg" alt="Logo" width="250" height="200">
 </div>
 
 ## Languages:
