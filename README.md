@@ -1,6 +1,10 @@
 # Miscellaneous_Codes
 ## Logo:
 
+<div align="center">
+    <img src="logo.jpeg" alt="Logo" width="200" height="200">
+</div>
+
 ## Languages:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="HTML" width="40px"/><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="HTML" width="40px"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="HTML" width="40px"/>
