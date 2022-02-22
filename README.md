@@ -1,5 +1,4 @@
 # Miscellaneous_Codes
-## Logo:
 
 <div align="center">
     <img src="logo.jpeg" alt="Logo" width="350" height="200">
