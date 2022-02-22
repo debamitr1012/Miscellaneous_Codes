@@ -4,7 +4,7 @@
 ## Languages:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="HTML" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="HTML" width="40px"/>
 
 ## Week 1:
