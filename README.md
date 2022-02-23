@@ -10,4 +10,5 @@
 
 ## Week 1:
 1. Find the second largest and second smallest number simultaneously in an array using Divide & Conquer Principle.
-2. 
+2. Given a sorted array and a number X, search two elements of the array such that their sum is X.
+3. Apply Binary Search on 2D NxM array (A) having numbers stored in non-decreasing order under row-major scanning.
