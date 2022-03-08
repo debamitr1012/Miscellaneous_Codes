@@ -19,3 +19,8 @@
 2. A Bitonic Sequence is a sequence of numbers which is first strictly increasing then after a point strictly decreasing. A Bitonic Point is a point in bitonic sequence before which elements are strictly increasing and after which elements are strictly decreasing. Find bitonic point in a bitonic sequence. 
 3. Given an array of digits, sort them with time complexity O(n).
 4. Apply Merge Sort to count inversion pairs in an array. Two elements a[i] and a[j] form an inversion pair if a[i] > a[j] and i < j. Example: The sequence 2, 4, 1, 3, 5 has three inversions (2, 1), (4, 1), (4, 3).
+
+## Week 3:
+1. Find neighbors of the median element in an array using partitioning strategy of Quick-Sorting method. 
+2. Apply Strassen’s Matrix Multiplication strategy for odd dimensional square matrix. 
+3. Arrange a list of words (each of equal length) using dictionary sorting strategy. 
