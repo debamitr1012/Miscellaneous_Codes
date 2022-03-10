@@ -21,6 +21,6 @@
 4. Apply Merge Sort to count inversion pairs in an array. Two elements a[i] and a[j] form an inversion pair if a[i] > a[j] and i < j. Example: The sequence 2, 4, 1, 3, 5 has three inversions (2, 1), (4, 1), (4, 3).
 
 ## Week 3:
-1. Find neighbors of the median element in an array using partitioning strategy of Quick-Sorting method. 
+1. Find neighbours of the median element in an array using partitioning strategy of Quick-Sorting method. 
 2. Apply Strassen’s Matrix Multiplication strategy for odd dimensional square matrix. 
 3. Arrange a list of words (each of equal length) using dictionary sorting strategy. 
