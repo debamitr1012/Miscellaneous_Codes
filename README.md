@@ -24,3 +24,11 @@
 1. Find neighbours of the median element in an array using partitioning strategy of Quick-Sorting method. 
 2. Apply Strassen’s Matrix Multiplication strategy for odd dimensional square matrix. 
 3. Arrange a list of words (each of equal length) using dictionary sorting strategy. 
+
+## Week 4:
+1. Given a value V and infinite supply of coins of m-denominations {C1=1 < C2<C3<.....<Cm}, we want to make change for Rs. V. Apply DP strategy to find out minimum number of coins to make the change?
+2. Given a cost 2D-matrix and a position (m, n), write a function that returns cost of minimum cost-path to reach (m, n) from (0, 0). 
+3. Given a set of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum. 
+
+## Weeek 5:
+1. 
