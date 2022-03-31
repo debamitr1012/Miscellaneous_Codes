@@ -39,7 +39,7 @@
 2. Implement DP strategy to solve Travelling Salesman Problem(TSP).
 
 ## Week 7:
-1. Find the smallest number with given digit sum s and number of digits d? Input : s = 9, d = 2, Output : 18 
+1. Find the smallest number with given digit sum s and number of digits d? Input : s = 9, d = 2 Output : 18 
 2. Implement a greedy algorithm to solve fractional knapsack problem.
 3. Implement greedy algorithm to solve the problem of Job Sequencing with deadlines.
 
@@ -53,5 +53,5 @@
 2. The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, following is a solution for 4 Queen-problem.
 
 ## Week 10:
-1. KMP String Matching: Given a text txt[0..n-1] and a pattern pat[0..m-1], write a function search(char pat[], char txt[]) that prints all occurrences of pat[] in txt[]. You may assume that n > m. Text: A A B A A C A A D A A B A A B A, Pattern: A A B A
+1. KMP String Matching: Given a text txt[0..n-1] and a pattern pat[0..m-1], write a function search(char pat[], char txt[]) that prints all occurrences of pat[] in txt[]. You may assume that n > m. Text: A A B A A C A A D A A B A A B A Pattern: A A B A
 2. Write an approximation algorithm for TSP with triangle inequality. Your solution should be at most twice worst with respect to the optimal solution.
