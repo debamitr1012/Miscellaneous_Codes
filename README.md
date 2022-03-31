@@ -39,4 +39,9 @@
 2. Implement DP strategy to solve Travelling Salesman Problem(TSP).
 
 ## Week 7:
+1. Find the smallest number with given digit sum s and number of digits d? Input : s = 9, d = 2 Output : 18 
+2. Implement a greedy algorithm to solve fractional knapsack problem.
+3. Implement greedy algorithm to solve the problem of Job Sequencing with deadlines.
 
+## Week 8:
+1. 
