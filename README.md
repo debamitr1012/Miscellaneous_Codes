@@ -35,4 +35,8 @@
 2. Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. You cannot break an item, either pick the item, or don’t pick it. 
 
 ## Week 6:
-1. 
+1. Implement all pairs of Shortest path algorithm for a graph using Floyd-Warshall’s strategy.
+2. Implement DP strategy to solve Travelling Salesman Problem(TSP).
+
+## Week 7:
+
