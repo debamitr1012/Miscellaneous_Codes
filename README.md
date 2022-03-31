@@ -30,5 +30,9 @@
 2. Given a cost 2D-matrix and a position (m, n), write a function that returns cost of minimum cost-path to reach (m, n) from (0, 0). 
 3. Given a set of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum. 
 
-## Weeek 5:
+## Week 5:
+1. Given an array p[] which represents the chain of matrices such that the i-th matrix Ai is of dimension p[i-1] x p[i]. We need to write a function that should return the optimal parenthesizing expression resulting minimum multiplication cost to multiply the chain. 
+2. Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. You cannot break an item, either pick the item, or don’t pick it. 
+
+## Week 6:
 1. 
