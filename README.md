@@ -44,4 +44,16 @@
 3. Implement greedy algorithm to solve the problem of Job Sequencing with deadlines.
 
 ## Week 8:
-1. 
+1. Implement Dijkstra’s algorithm for finding shortest path.
+2. Implement Bellman-Ford’s algorithm for finding shortest path.
+3. Implement BFS and DFS for a given undirected graph and starting vertex.
+
+## Week 9:
+1. You are given a 3×3 board with 8 tiles (every tile has one number from 1 to 8 and one space is empty). The objective is to place the numbers on tiles to match final configuration using the empty space. We can slide four adjacent (left, right, above and below) tiles into the empty space.
+2. The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, following is a solution for 4 Queen-problem.
+
+## Week 10:
+1. KMP String Matching: Given a text txt[0..n-1] and a pattern pat[0..m-1], write a function search(char pat[], char txt[]) that prints all occurrences of pat[] in txt[]. You may assume that n > m.
+Text: A A B A A C A A D A A B A A B A
+Pattern: A A B A
+2. Write an approximation algorithm for TSP with triangle inequality. Your solution should be at most twice worst with respect to the optimal solution.
