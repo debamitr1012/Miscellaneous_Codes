@@ -66,7 +66,7 @@ int main()
     int nn;
 	cout << "Enter size of the array : " ;
 	cin >> nn ;
-	int arr[50];
+	int arr[nn];
 	int i;
 	cout << "Enter values : ";
 	for (i = 0; i < nn; i++)
